@@ -1,0 +1,2 @@
+# WikiQualitat
+Wiki para documentacion
